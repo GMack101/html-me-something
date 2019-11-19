@@ -1,0 +1,22 @@
+.verdana{
+    font-family: verdana;
+    font-size: 18px;
+}
+
+#meatballs{
+    width: 40%;
+    height: auto;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+    
+}
+
+.center{ 
+    text-align: center;
+}  
+
+.list{
+    display: inline-block;
+}  
