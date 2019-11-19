@@ -1,22 +1,52 @@
+body{
+     background-color: aqua;
+}
 .verdana{
     font-family: verdana;
     font-size: 18px;
 }
 
-#meatballs{
+ #meatballs{
+    padding-top: 30px;
     width: 40%;
     height: auto;
     display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 30%;
-    
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+
+}
+
+strong{ 
+    color:blue;
+
 }
 
 .center{ 
     text-align: center;
 }  
 
-.list{
+.verdana{
+    font-size:20;
+    font-family: Arial;
+}
+
     display: inline-block;
-}  
+} 
+ul{
+    color: red;
+}
+li{ 
+
+    border: 1px solid black;
+    border-color: grey;
+    border-block-color: grey;
+    float: left;
+    width: 100px;
+}
+
+
+
+
+
+
